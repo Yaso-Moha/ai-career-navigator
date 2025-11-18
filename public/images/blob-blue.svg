@@ -1,0 +1,13 @@
+<!-- Save as blob-blue.svg -->
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g filter="url(#filter0_f)">
+    <path d="M428.98 343.065C444.966 385.914 430.89 452.276 395.241 480.697C359.593 509.117 302.981 499.407 251.305 476.944C199.629 454.48 152.889 419.265 142.647 375.158C132.404 331.05 158.669 278.052 199.56 248.675C240.451 219.297 296.97 213.529 341.024 232.77C385.078 251.911 413.001 300.216 428.98 343.065Z" fill="#2563eb"></path>
+  </g>
+  <defs>
+    <filter id="filter0_f" x="0" y="0" width="600" height="600" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"></feBlend>
+      <feGaussianBlur stdDeviation="60"></feGaussianBlur>
+    </filter>
+  </defs>
+</svg>
