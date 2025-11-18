@@ -1,19 +1,41 @@
-# Career Navigator — Frontend (Meteor)
+# Career Navigator — Frontend
 
-Career Navigator is a modern web application designed to help users explore suitable career paths based on their resume content.  
-This repository contains the **frontend** of the system, built using **Meteor** and connected to a Python resume-processing backend.
+This is the frontend for the Career Navigator system.  
+It allows users to upload resumes and view recommendations based on the backend analysis.
+
+## Features
+
+- Simple interface for uploading resumes  
+- Displays extracted information and recommended roles  
+- Create your resume in one-click
+- parse large number of CVs and filter them out
+- enjoy a chatbot that knows you and advice you some knowledge and cources 
+- Easy local setup
+
+## Setup
+
+```bash
+git clone https://github.com/Yaso-Moha/ai-career-navigator
+cd ai-career-navigator
+meteor npm install
+
+## Running
+
+Start the frontend with:
+
+```bash
+meteor
+
+http://localhost:3000
+
+## Backend Service
+
+This frontend connects to the resume parser backend:
+
+https://github.com/Yaso-Moha/resume_parser_service
 
 ---
 
-## 🌟 Features
+## License
 
-- Upload and process resumes through a clean interface  
-- Shows experience highlights, key skills, and suitable job roles  
-- Communicates with a backend parser service  
-- Responsive and user-friendly layout  
-- Simple and fast local deployment  
-
----
-
-## 🧱 System Architecture
-
+MIT License
