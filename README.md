@@ -39,3 +39,6 @@ https://github.com/Yaso-Moha/resume_parser_service
 ## License
 
 MIT License
+
+
+Note : You would need your own API (OPENAI , Gemini , deepseek ) for the chatbot to work.
